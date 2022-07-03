@@ -4,7 +4,7 @@
 - University Roll No.:1900290310090
 - Branch:ECE
 - Section:B
-- Preferred Programming Language: C++/Java/Python
+- Preferred Programming Language: C++/C/Python
 
 ## Coding Profiles
 - LeetCode: https://leetcode.com/nikonik3/
