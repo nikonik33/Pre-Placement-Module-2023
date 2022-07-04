@@ -7,8 +7,8 @@
 - Preferred Programming Language: C++/C/Python
 
 ## Coding Profiles
-- LeetCode: https://leetcode.com/nikonik3/
-- HackerRank: https://www.hackerrank.com/nikhil_1923ec111
+- LeetCode:Nikhil_Maurya https://leetcode.com/nikonik3/
+- HackerRank:Nikhil_Maurya https://www.hackerrank.com/nikhil_1923ec111
 
 ## Placement Module
 1. [DS I](https://github.com/YOURGITHUBUSERNAME/Pre-Placement-Module-2023/tree/main/DS%20I)
